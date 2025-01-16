@@ -12,7 +12,7 @@ A simple web-based food ordering application where users can browse a menu, add 
 
 ## Tech Stack
 
-- **Frontend**: React, React Router, CSS/SCSS, Axios
+- **Frontend**: React, React Router, MUI, Bootstrap, Axios
 - **Backend**: Spring Boot, Java, Spring Data JPA, Spring Security (for authentication)
 - **Database**: Oracle Database
 - **Authentication**: JWT (JSON Web Tokens) for secure login and session management (optional)
